@@ -6,7 +6,7 @@ import 'package:assesment_teklogue/core/themes/app_outline_button.dart';
 import 'package:assesment_teklogue/core/widget/app_selectable_chip.dart';
 import 'package:assesment_teklogue/features/cart/presentation/blocs/cart_cubit.dart';
 import 'package:assesment_teklogue/features/cart/presentation/blocs/payment_cubit.dart';
-import 'package:assesment_teklogue/features/cart/presentation/screens/components/total_paid_child_content.dart';
+import 'package:assesment_teklogue/features/cart/presentation/screens/components/child_content/total_paid_child_content.dart';
 import 'package:extended_masked_text/extended_masked_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

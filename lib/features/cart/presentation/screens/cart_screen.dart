@@ -1,6 +1,6 @@
 import 'package:assesment_teklogue/core/themes/app_colors.dart';
-import 'package:assesment_teklogue/features/cart/presentation/screens/components/cart_section.dart';
-import 'package:assesment_teklogue/features/cart/presentation/screens/components/payment_section.dart';
+import 'package:assesment_teklogue/features/cart/presentation/screens/components/sections/cart_section.dart';
+import 'package:assesment_teklogue/features/cart/presentation/screens/components/sections/payment_section.dart';
 import 'package:flutter/material.dart';
 
 class CartScreen extends StatelessWidget {
